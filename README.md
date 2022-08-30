@@ -1,1 +1,10 @@
-# Smart-Triage
+
+# Computer Vision-Based Architecture for IoMT Using Deep Learning  
+The problem of Emergency Department (ED) over-crowding is a worldwide public health issue that has several side effects, such as overworked medical staff, increased infections, and high mortality rates among patients. The process of conducting initial medical assessment and sorting for ED patients without the need for direct contact between medical staff and patients is called “remote triage”.   
+In this work, we tackle the automation of this process. Three fully automated computer vision-based architectures for IoMT are proposed, namely home-based, portable and smart triage road units. The proposed methods utilize state-of-the-art deep learning architectures to automate the remote triage process. The utilized deep architectures are lightweight, thus, mobile-friendly, and capable of assigning triage scores to a broad spectrum of medical conditions. We furthermore formulate patients' ED wait time mathematically. We setup all architectures to consider EDs at a regional level in order to facilitate making a convenient ED choice for patients. Moreover, a novel ED selection criteria that considers the ED distance and the expected wait time is proposed in order to minimize the wait time and commuting distance for patients. Our experiments show an improvement in the quality and duration of patients' wait time throughout the triage process. Additionally, our experiments show that the proposed methods achieve accurate triage results with an average macro F-score of 97.8% with the capability of providing triage to 98 patients/second compared to the non-automated current approach followed in EDs which takes 15 minutes/patient in the best case.    
+Paper: [Computer Vision-Based Architecture for IoMT Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/9825279)  
+  Authors:   
+  Rabiah Al-Qudah, Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), UAE. [E-mail](Rabiah.alqudah@mbzuai.ac.ae)  
+  Moayad Aloqaily, Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), UAE. [E-mail]( moayad.aloqaily@mbzuai.ac.ae)  
+  Fakhri Karray, Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), UAE. [E-mail]( fakhri.karray@mbzuai.ac.ae)
+
